@@ -2,7 +2,11 @@
 
 ## GCPプロジェクトの作成
 
+TODO
+
 ## GCPでトピック作成
+
+TODO
 
 ## publisherの構築
 

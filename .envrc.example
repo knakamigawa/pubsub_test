@@ -1,0 +1,2 @@
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/nak/workspace/pubsub_test/credential/____youre_project____.json
+export PROJECT_NAME=____youre_project____
